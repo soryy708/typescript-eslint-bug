@@ -1,0 +1,15 @@
+{
+    "env": {
+        "es6": true
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "extensions": [".js", ".ts"]
+            }
+        }
+    },
+    "rules": {
+        "no-undef": "error"
+    }
+}
